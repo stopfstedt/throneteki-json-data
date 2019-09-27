@@ -71,27 +71,6 @@
             "illustrator": "Jokubas Uogintas"
         },
         {
-            "code": "15003",
-            "type": "character",
-            "name": "Rhaegal",
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 7,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 8,
-            "traits": [
-                "Dragon"
-            ],
-            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "Jokubas Uogintas"
-        },
-        {
             "code": "15004",
             "type": "character",
             "name": "Viserion",
