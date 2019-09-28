@@ -109,7 +109,7 @@
                 "Dothraki",
                 "Lord"
             ],
-            "text": "Renown.<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
+            "text": "Renown.\n<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
             "flavor": "\"Come, my blood. The stallions call, this place is ashes. It is time to ride.\"",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
